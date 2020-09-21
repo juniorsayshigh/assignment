@@ -7,5 +7,3 @@ The Range Program
 
   Return:
   A range of numbers using the parameters given by the user.
-
-  use "assignment_4_counter_luqman_ashamu.py"

@@ -10,7 +10,7 @@ def main():
     Return:
     A range of numbers using the perameters given by the user.
 
-    use "assignment_4_counter_luqman_ashamu.py"
+    
     """
 
     try:
